@@ -55,6 +55,9 @@ coverage.xml
 *.mo
 *.pot
 
+# TspLib
+*.tsp
+
 # Django stuff:
 *.log
 local_settings.py
